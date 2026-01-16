@@ -1,0 +1,26 @@
+[
+  {
+    "id": "coffee",
+    "icon_path": "assets/icons/coffee.png",
+    "name": "Coffee",
+    "price_cents": 159
+  },
+  {
+    "id": "croissant",
+    "icon_path": "assets/icons/croissant.png",
+    "name": "Croissant",
+    "price_cents": 299
+  },
+  {
+    "id": "french_fries",
+    "icon_path": "assets/icons/french-fries.png",
+    "name": "French fries",
+    "price_cents": 399
+  },
+  {
+    "id": "salad",
+    "icon_path": "assets/icons/salad.png",
+    "name": "Salad",
+    "price_cents": 599
+  }
+]

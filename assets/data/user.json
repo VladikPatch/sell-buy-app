@@ -1,0 +1,13 @@
+[
+  {
+    "id": "vladyslav",
+    "display_name": "Vladyslav",
+    "balance_cents": 2000,
+    "inventory": {
+      "coffee": 5,
+      "croissant": 12,
+      "french_fries": 2,
+      "salad": 4
+    }
+  }
+]

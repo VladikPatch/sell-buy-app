@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cycle_0_upgrades",
+    "cycle_level": 0,
+    "upgrade_a": {
+      "id": "new_item_meat",
+      "iconPath": "assets/icons/grey-meat.png",
+      "name": "New Item",
+      "type": "new_item",
+      "priceCents": 3999
+    },
+    "upgrade_b": {
+      "id": "market_sell_prices_by_20%",
+      "iconPath": "assets/icons/sell-prices.png",
+      "name": "Market Sell Prices +20%",
+      "type": "sell_increase",
+      "priceCents": 2999
+    }
+  },
+  {
+    "id": "cycle_1_upgrades",
+    "cycle_level": 1,
+    "upgrade_a": {
+      "id": "new_item_coconut",
+      "iconPath": "assets/icons/coconut-grey.png",
+      "name": "New Item",
+      "type": "new_item",
+      "priceCents": 4999
+    },
+    "upgrade_b": {
+      "id": "market_buy_prices_by_15%",
+      "iconPath": "assets/icons/buy-prices.png",
+      "name": "Market Buy Prices -15%",
+      "type": "buy_decrease",
+      "priceCents": 3599
+    }
+  }
+]
